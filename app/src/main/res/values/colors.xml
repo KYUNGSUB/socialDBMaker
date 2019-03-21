@@ -1,0 +1,12 @@
+<resources>
+	<color name="music_background">#FFC0FFC0</color>
+	<color name="button_background">#FF000000</color>
+	<color name="title_foreground">#FF0000FF</color>
+	<color name="green_foreground">#FF00FF00</color>
+	<color name="playmode_foreground">#FF8000FF</color>
+	<color name="context_foreground">#FF000000</color>
+	<color name="music_click_background">#FFFFFF00</color>
+	<color name="music_normal_background">#FFFFFFFF</color>
+	<color name="main_list_background">#FFFFFFD2</color>
+	<color name="pressed_baas">#CC33B5E5</color>
+</resources>

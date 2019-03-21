@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="music_data_version">2</string>
+    <string name="guide_data_initial1">아래 이용약관에 동의해 주십시요.\n데이터 초기화에 2분 정도 소요 됩니다.</string>
+	<string name="guide_data_initial2">데이터 초기화에 2분 정도 소요 됩니다.\n초기화 후, 듣고 싶은 음악을 즐겨찾기에 추가해 사용하십시요! 1,550곡 즐감!</string>
+    <string name="app_name">Classical Music</string>
+    <string name="content_mgmt_title">Content Management</string>
+    <string name="prompt_main_spin">음악 주 분류를 선택하세요</string>
+    <string name="prompt_sub_spin">음악 부 분류를 선택하세요</string>
+    <string name="main_screen_title">메인 화면</string>
+    <string name="guide_keyword_input">키워드를 입력 하세요!</string>
+    <string name="music_search_btn">음악 검색</string>
+    <string name="date_time_set">설정</string>
+    <string name="user_agreement_label">[이용 약관]\n서비스 이용을 위한 통신비용은 별도로 사용자가 부담하며, 통신환경에 대하여는 어플 제공자가 보장할 수 없습니다. 가능한 통신환경이 좋은 조건에서 서비스 이용 희망 (WiFi 지역 best)\n\n처음 설치하면, 7일간 무료로 이용 가능합니다. 그 이후는 쿠폰을 구매하여 이용할 수 있습니다.\n1분간 음악 미리듣기 제공\n쿠폰을 구매하면 30일간 모든 음악을 듣기 가능\n\n음악을 메인화면에서 다운로드 후 통신이 안되는 환경에서 듣기를 하거나, 다운로드 없이 통신이 가능한 환경에서 듣기가 가능합니다.\n\n어플을 삭제하면, 쿠폰 정보 및 남아있는 서비스 기간 정보가 지워지므로 주의를 요합니다.\n
+    	\n이용약관을 동의하셔야 기능을 이용하실 수 있습니다. 감사합니다.</string>
+    <string name="select_item">구매항목 선택</string>
+    <string name="usage_guide">[간단 사용 방법]\n
+        1. 메인 화면에서 쿠폰 구매\n
+        2. 콘텐츠 관리 화면에서 듣고 싶은 곡을 즐겨찾기로 구성\n
+        3. 메인 화면에서 Player 동작\n
+    	4. 1분 미리듣기는 메인 화면에서 이용\n
+    	5. 메인화면에서 즐겨찾기 삭제 가능\n
+    	6. 자세한 설명은 도움말 참조</string>
+    <string name="user_agreement_ok">이용약관에 동의</string>
+    <string name="user_agreement_nok">동의 안함</string>
+    <string name="keyword_hint">검색어 입력</string>
+    <string name="hint_email">이메일 주소</string>
+    <string name="hint_password">비밀번호</string>
+    <string name="label_start_id">시작 ID : </string>
+    <string name="label_end_id">중료 ID : </string>
+    <string name="hint_start_id">100</string>
+    <string name="hint_end_id">150</string>
+    <string name="menu_signup_go">회원가입</string>
+    <string name="buying_music_btn">보유 음악</string>
+    <string name="player_type">basic</string>
+    <string name="total">Repeat All Song</string>
+    <string name="title_label">Title :</string>
+    <string name="author_label">Composer :</string>
+    <string name="player_label">Player :</string>
+    <string name="description_label">Description :</string>
+    <string name="play_mode">play_mode</string>
+    <string name="play_status">play_status</string>
+    <string name="guide_on_busy">Busy is not the behavior of!</string>
+    <string name="guide_no_selected_song">No song selected!</string>
+    <string name="guide_stop_listen_music">Will stop listening to music!</string>
+    <string name="load_music_from_sd">Import Music</string>
+	<string name="music_preference_category">Listening to music settings</string>
+	<string name="key_repeat_turn_preference">music_repeat_turn</string>
+	<string name="key_play_time_preference">music_play_time</string>
+    <string name="title_repeat_turn_preference">Set the number of iterations</string>
+    <string name="summary_repeat_turn_preference">Choose 1-5 of this times [default 2]</string>
+    <string name="dialog_title_repeat_turn_preference">Set the number of repeated listening</string>
+    <string name="music_title_label">Title</string>
+    <string name="music_author_label">Composer</string>
+    <string name="music_player_label">Player</string>
+    <string name="command_not_permitted">This behavior is only possible to stop the state!</string>
+    <string name="music_selection_title">Setup Environments</string>
+    <string name="repeat_turn_prompt">Want to hear a few times repeatedly!</string>
+    <string name="play_mode_prompt">Set a listening mode!</string>
+    <string name="finish_music_play">Listening to music has been completed!</string>
+    <string name="music_list_filename">music_list004</string>
+    <string name="help_display_title">Help</string>
+    <string name="toast_item_selection">Have chosen.</string>
+    <string name="title_finish_music_confirm">Really, Quit?</string>
+    <string name="alert_dialog_ok">Yes</string>
+    <string name="alert_dialog_cancel">No</string>
+    <string name="min_volume_label">Min.</string>
+    <string name="max_volume_label">Max.</string>
+    <string name="physical_music_list">physical_list</string>
+    <string name="logical_music_list">logical_list</string>
+    <string name="run_service_notification">On Playing!</string>
+    <string name="help_use_basic_player">It is recommended that you use the default player!</string>
+    <string name="background_label">Background</string>
+    <string name="title_background_show">Do you want to see how the background?</string>
+    <string name="key_background_display_mode">background_mode</string>
+    <string name="product_label">P_ID : </string>
+    <string name="file_label">파일 : </string>
+    <string name="post_button">Post</string>
+    <string name="exit_button">종료</string>
+    <string name="result_hint">데이터를 입력 후, Post 버튼을 누르세요!</string>
+    <string name="miss_input_help">데이터의 입력을 확인 하십시요!</string>
+    <string name="file_check">파일이 존재하지 않습니다!</string>
+    <string name="message_uploading_post">글을 올리는 중입니다.</string>
+    <string name="success_help">OK!</string>
+    <string name="version_label">버전값 : </string>
+    <string name="help_description">1. Overview\n
+    Listening to Music series with the main players in the house has been configured.\n 
+    Provides the basic player is free advertising, but all of these functions are provided.\n 
+    The house is a series of paid ads are not available. Repeat feature whole songs, however, is limited.\n 
+    In addition to the default built-in music player, as well as its own series, if the series at home to buy a house you can listen to the music.\n 
+    Therefore, it is recommended to use the default player.\n\n
+    2. MediaPlayer action\n
+    - Play: listen to music when you\n 
+    - Pause: temporarily stop the music when you want to listen.\n 
+    - Stop: Stop the music when you want to listen.\n
+    - Continued: Then paused again, listening to music when you want to\n 
+    - Previous songs: \'Repeat\' mode when you want to hear the old songs.\n 
+    - Next song: \'Repeat\' mode when you want to hear the next song.\n\n
+    3. Setup Preferences\n
+    3.1 listening mode\n
+    - Whole song repeat: repeat all songs, regardless of the song selection will hear\n 
+    - Selection is repeated: the selected songs will hear repeatedly\n
+    - Whole song one time: all the songs, regardless of the song selection will hear only once\n 
+    - Song selection only once: the selected songs will hear only once\n
+    - 1 song listening: If you select the song you want to listen, he will hear the song\n 
+    3.2. Repeat count\n
+    - Set the number of repeated listening (choice of one to 10 times)\n\n 
+    3.3 time to listen\n
+    - Set the time to listen to music: a set number of minutes, and takes precedence over the number of iterations. When set to 0, the number of iterations applied\n\n 
+    3.4 Listening to music\n
+    - Internal memory and SD card to listen to music stored on performing\n 
+    - SD card, listening to music under the MusicPE Directory\n
+    - Series application has been copied to the SD can listen to music\n\n
+    3.5 Set the order for Listening to music\n
+    - Stored in internal memory, music and music stored on an SD card set up between the sequence\n
+    - To modify the order by clicking on the music selection on the left side of the yellow color appears stating that the square\n
+    - It is based on\n
+    + Up: Move up the selected song\n 
+    + Down: Move down the selected song\n\n
+    3.6 Selection\n
+    - CheckBox and selection is to select, toggle is\n\n
+    3.7 volume control\n
+    - Adjust the size of the listening volume\n\n
+    3.8 progress bar\n
+    - Play time, full time, being played by the progress bar displays the situation\n 
+    - Changed the progress of a cycle of 1 second\n\n
+    3.9 back to the top\n
+    - Return to initial screen\n\n</string>
+</resources>

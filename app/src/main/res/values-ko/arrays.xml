@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="play_method_items">
+		<item>전곡 반복</item>
+		<item>선곡 반복</item>
+		<item>전곡 한번만</item>
+		<item>선곡 한번만</item>
+		<item>한곡만 듣기</item>
+	</string-array>
+	<string-array name="repeat_turn_items">
+		<item>1회</item>
+		<item>2회</item>
+		<item>3회</item>
+		<item>4회</item>
+		<item>5회</item>
+		<item>6회</item>
+		<item>7회</item>
+		<item>8회</item>
+		<item>9회</item>
+		<item>10회</item>
+	</string-array>
+	<string-array name="repeat_turn_values">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+		<item>8</item>
+		<item>9</item>
+		<item>10</item>
+	</string-array>
+	<string-array name="background_mode">
+		<item>순차</item>
+		<item>랜덤</item>
+	</string-array>
+	<string-array name="background_drawable">
+		<item>main_background1</item>
+		<item>main_background2</item>
+		<item>main_background3</item>
+		<item>main_background4</item>
+		<item>main_background5</item>
+		<item>main_background6</item>
+		<item>main_background7</item>
+		<item>main_background8</item>
+		<item>main_background9</item>
+		<item>main_background10</item>
+		<item>main_background0</item>
+	</string-array>
+	<string-array name="search_category_items">
+		<item>제목</item>
+		<item>저자</item>
+	</string-array>
+	<string-array name="single_or_bookmark">
+		<item>선택 곡 듣기</item>
+		<item>즐겨찾기 삭제</item>
+		<item>음악 다운로드</item>
+	</string-array>
+</resources>

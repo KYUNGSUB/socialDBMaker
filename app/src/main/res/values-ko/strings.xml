@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Classical Music</string>
+    <string name="total">전곡 반복</string>
+    <string name="title_label">제목 :</string>
+    <string name="author_label">작곡가 :</string>
+    <string name="player_label">연주자 :</string>
+    <string name="description_label">설명 :</string>
+    <string name="play_mode">play_mode</string>
+    <string name="play_status">play_status</string>
+    <string name="guide_on_busy">통화중에는 동작을 하지 않습니다!</string>
+    <string name="guide_no_selected_song">선택된 곡이 없습니다!</string>
+    <string name="guide_stop_listen_music">음악듣기를 멈춥니다!</string>
+    <string name="load_music_from_sd">음악 가져오기</string>
+	<string name="music_preference_category">음악 듣기 설정</string>
+	<string name="key_repeat_turn_preference">music_repeat_turn</string>
+	<string name="key_play_time_preference">music_play_time</string>
+    <string name="title_repeat_turn_preference">반복 횟수 설정</string>
+    <string name="summary_repeat_turn_preference">1~5회 중 선택 하세요[기본 2회]</string>
+    <string name="dialog_title_repeat_turn_preference">반복 듣기 횟수 설정</string>
+    <string name="music_title_label">제목</string>
+    <string name="music_author_label">작곡가</string>
+    <string name="music_player_label">연주자</string>
+    <string name="command_not_permitted">중지상태에서만 가능한 동작 입니다!</string>
+    <string name="music_selection_title">듣기 설정</string>
+    <string name="repeat_turn_prompt">몇 번 반복해서 듣고 싶으세요!</string>
+    <string name="play_mode_prompt">듣기 모드를 설정 하세요!</string>
+    <string name="finish_music_play">음악 듣기가 완료 되었습니다!</string>
+    <string name="music_list_filename">music_list004</string>
+    <string name="help_display_title">도움말 보기</string>
+    <string name="toast_item_selection">을 선택 하셨습니다.</string>
+    <string name="title_finish_music_confirm">종료 하시겠습니까?</string>
+    <string name="alert_dialog_ok">예</string>
+    <string name="alert_dialog_cancel">아니오</string>
+    <string name="min_volume_label">최소</string>
+    <string name="max_volume_label">최대</string>
+    <string name="run_service_notification">동작 중!</string>
+    <string name="help_use_basic_player">기본 플레이어 사용을 권장 합니다!</string>
+    <string name="background_label">배경</string>
+    <string name="title_background_show">배경을 어떻게 보여줄까요?</string>
+    <string name="key_background_display_mode">background_mode</string>
+    <string name="buying_music_btn">보유 음악</string>
+	<string name="content_mgmt_title">콘텐츠 관리</string>
+    <string name="help_description">1. 개요\n
+    	이 어플은 여러 가지 분류별 클래식 음악을 들을 수 있습니다. 처음 구매 시, 기존적으로 7일간 무료로 서비스를 받을 수 있습니다. 기본 서비스 기간이 끝나면 쿠폰을 구매하여 음악을 들으실 수 있습니다. 모든 음악은 기본적으로 1분간 미리듣기 기능을 제공힙니다.\n
+    	쿠폰은 30일/1,000원 이며, 메인 화면의  Coupon 버튼을 누르고 구매하실 수 있습니다. 먼저 듣고자 하는 음악을 콘텐츠 관리화면에서
+    	즐겨찾기 목록에 추가 하신 후, 메인 화면에서 듣기를 하십시요.\n\n
+    	2. 쿠폰 구매\n
+    	메인화면>Coupon\n
+    	- 음악을 들으려면, 쿠폰을 구매하여야 합니다.\n
+    	- 쿠폰 종류\n
+    	+ 쿠폰 (30일/1,000원) : 30일간 모든 음악을 들으실 수 있습니다.\n\n
+    	3. 콘텐츠 관리\n
+    	메인화면>콘텐츠 관리\n
+    	- 분류별로 음악 검색 : 주분류와 부분류에 의하여 음악 목록을 검색\n
+    	- 키워드로 음악 검색\n
+    	+ 제목이나 저자별로 키워드를 입력 후, 검색버튼을 누른다.\n
+    	+ 메뉴버튼을 누르고, 음악검색  메뉴를 선택한다.\n
+    	- 즐겨찾기 추가/삭제 : 각 음악의 체크버튼을 사용하여 즐겨찾기를 구성합니다.\n
+    	+ 메인화면에서 전체 즐겨찾기 목록을 확인할 수 있습니다.\n\n
+    	4. MediaPlayer 동작\n
+    	- 듣기 : 음악을 듣고자 할 때\n
+    	- 일시 정지 : 음악 듣는 것을 일시적으로 중지하고자 할 때\n
+    	- 중지 : 음악 듣는 것을 멈추고자 할 때\n
+    	- 계속 : 일시 정지된 곡을 다시 이어서 듣고 싶을 때\n
+    	- 이전 곡 듣기 : 반복 듣기 모드에서 이전 곡을 듣고 싶을 때\n
+    	- 다음 곡 듣기 : 반복 듣기 모드에서 다음 곡을 듣고 싶을 때\n
+    	- 즐겨찾기 삭제 : 즐겨찾기 목록에서 삭제한다.\n\n
+    	5. 설정\n
+    	5.1 Shuffle\n
+    	- Shuffle Off : 즐겨찾기의 순서대로 음악을 들려 줍니다.\n
+    	- Shuffle On : 랜덤한 순서로 음악을 들려 줍니다.\n
+    	5.2 Repeat Mode\n
+    	- 전곡 반복 : 즐겨찾기에 있는 모든 곡을 반복해서 들려 줍니다.\n
+    	- 전곡 1회만 : 즐겨찾기에 있는 모든 곡을 한번 만 들려 줍니다.\n
+    	- 1곡 반복 : 현재 듣는 음악을 반복해서 들려 줍니다.\n
+    	5.3 한곡만 듣기 : 한곡씩 듣고 싶은 음악을 선택하여 듣고 싶을 때\n
+    	5.4 음량 조절\n
+    	- 듣는 음량의 크기를 조절한다.\n
+    	5.5 진행 바\n
+    	- 연주시간, 전체시간, 진행바에 의하여 연주되고 있는 상황을 표시.\n
+    	- 1초 주기로 진행 상태가 변경됨.\n\n
+    	6. 도움말\n</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="play_method_items">
+		<item>Whole song repeat</item>
+		<item>Selection is repeated</item>
+		<item>whole song one time</item>
+		<item>Selection only once</item>
+		<item>1 song listening</item>
+	</string-array>
+	<string-array name="repeat_turn_items">
+		<item>1 times</item>
+		<item>2 times</item>
+		<item>3 times</item>
+		<item>4 times</item>
+		<item>5 times</item>
+		<item>6 times</item>
+		<item>7 times</item>
+		<item>8 times</item>
+		<item>9 times</item>
+		<item>10 times</item>
+	</string-array>
+	<string-array name="repeat_turn_values">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+		<item>8</item>
+		<item>9</item>
+		<item>10</item>
+	</string-array>
+	<string-array name="background_mode">
+		<item>Seq.</item>
+		<item>Random</item>
+	</string-array>
+	<string-array name="background_drawable">
+		<item>main_background1</item>
+		<item>main_background2</item>
+		<item>main_background3</item>
+		<item>main_background4</item>
+		<item>main_background5</item>
+		<item>main_background0</item>
+	</string-array>
+	<string-array name="search_category_items">
+		<item>Title</item>
+		<item>Author</item>
+	</string-array>
+	<string-array name="single_or_bookmark">
+		<item>Only One Song</item>
+		<item>Bookmark Deletion</item>
+	</string-array>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	>
+	<TableLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:padding="5dp"
+	    android:stretchColumns="1"
+	    >
+	    <TableRow
+	        android:textSize="@dimen/sub_title"
+	        >
+	        <TextView 
+	            android:text="@string/label_start_id"
+	            />
+	        <EditText 
+	            android:id="@+id/start_mid"
+	            android:numeric="decimal"
+	            android:hint="@string/hint_start_id"
+	            android:layout_marginLeft="5dp"
+	            />
+	    </TableRow>
+	    <TableRow
+	        android:textSize="@dimen/sub_title"
+	        android:layout_marginTop="10dp"
+	        >
+	        <TextView 
+	            android:text="@string/label_end_id"
+	            />
+	        <EditText 
+	            android:id="@+id/end_mid"
+	            android:numeric="decimal"
+	            android:hint="@string/hint_end_id"
+	            android:layout_marginLeft="5dp"
+	            />
+	    </TableRow>
+	</TableLayout>
+</LinearLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:paddingTop="5dp"
+	android:paddingBottom="5dp"
+	>
+	<TextView
+		android:id="@+id/product_id"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:paddingLeft="10dip"
+        android:layout_alignParentLeft="true"
+		android:textSize="@dimen/view_author_large"
+		android:textColor="@color/context_foreground"
+	/>
+	<TextView
+		android:id="@+id/purchase_state"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:paddingRight="10dip"
+        android:layout_alignParentRight="true"
+		android:textSize="@dimen/view_author_large"
+		android:textColor="@color/context_foreground"
+	/>
+	<TextView
+		android:id="@+id/purchase_time"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:paddingLeft="10dip"
+		android:layout_below="@id/product_id"
+        android:layout_alignParentLeft="true"
+		android:textSize="@dimen/view_author_large"
+		android:textColor="@color/context_foreground"
+	/>
+</RelativeLayout>

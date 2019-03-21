@@ -1,0 +1,18 @@
+#Thu Mar 21 20:47:33 KST 2019
+multiDex=true
+logRemove=true
+stringEncrypt=true
+rootingDevice=true
+apiCallHide=false
+decompilePrevention=true
+clipboardPrevention=false
+exe_signing=false
+screenshotPrevention=false
+debugInfoRemove=true
+className=true
+repackgingPrevention=true
+zipAlign=false
+methodName=true
+exe_obfuscate=true
+fieldName=false
+resEncrypt=true
